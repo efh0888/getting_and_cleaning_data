@@ -17,7 +17,7 @@ In addition, the set of variables that were estimated from these signals are the
 
 
 ### Variable Names
-The following is a list of all variable names
+The following is a list of all variable names in tidy_data.txt:
   * activity (character, 6 activity names)
   * subject	(integer 1-30, denoting which subject is performing the activity)
   * tBodyAcc_mean_X		
