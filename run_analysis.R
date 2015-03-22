@@ -49,5 +49,5 @@ data2 <- data.table(data)
 data2 <- data2[, lapply(.SD, mean), by = .(activity, subject)]
 names(data2) <- gsub(pattern = "()", replacement = "", x = names(data2), fixed = TRUE)
 names(data2) <- gsub(pattern = "-", replacement = "_", x = names(data2), fixed = TRUE)
-nam <- data.frame("names" = names(data2))
-write.table(data2, "tidy_data.txt", row.names = FALSE)
+
+#write.table(data2, "tidy_data.txt", row.names = FALSE)
