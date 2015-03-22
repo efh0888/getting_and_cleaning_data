@@ -17,10 +17,10 @@ std: Standard deviation
 
 
 ##names
-  *activity		character, 6 activity names
-  *subject			integer 1-30, denoting which subject is performing the activity
-  *tBodyAcc_mean_X		
-*tBodyAcc_mean_Y
+  * activity		character, 6 activity names
+  * subject			integer 1-30, denoting which subject is performing the activity
+  * tBodyAcc_mean_X		
+  * tBodyAcc_mean_Y
 *tBodyAcc_mean_Z
 *tBodyAcc_std_X
 *tBodyAcc_std_Y
