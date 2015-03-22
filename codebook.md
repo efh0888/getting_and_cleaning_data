@@ -13,13 +13,13 @@ These signals were used to estimate variables of the feature vector for each pat
 -----------------------------------------------------------------------------------------------------------------------------
 The same scheme described above has been preserved.
 
-In addition, the set of variables that were estimated from these signals are the mean (mean) and standard deviation (std). The first two variables are described below, since they are added variables and not mentioned in above.
+In addition, the set of variables that were estimated from these signals are the mean (mean) and standard deviation (std). The actual values are averages grouped by activity and subject. The first two variables are described below, since they are added variables and not mentioned in above.
 
 
 ##Variable Names
 The following is a list of all variable names
-  * activity - character, 6 activity names
-  * subject	- integer 1-30, denoting which subject is performing the activity
+  * activity (character, 6 activity names)
+  * subject	(integer 1-30, denoting which subject is performing the activity)
   * tBodyAcc_mean_X		
   * tBodyAcc_mean_Y
   * tBodyAcc_mean_Z
