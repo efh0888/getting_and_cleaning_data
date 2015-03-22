@@ -17,9 +17,9 @@ std: Standard deviation
 
 
 ##names			description
-*activity		character, 6 activity names
-*subject			integer 1-30, denoting which subject is performing the activity
-*tBodyAcc_mean_X		Mean triaxial acceleration from the accelerometer (total acceleration) for time domain signals
+  *activity		character, 6 activity names
+  *subject			integer 1-30, denoting which subject is performing the activity
+  *tBodyAcc_mean_X		Mean triaxial acceleration from the accelerometer (total acceleration) for time domain signals
 *tBodyAcc_mean_Y		time domain signals
 *tBodyAcc_mean_Z		time domain signals
 *tBodyAcc_std_X		time domain signals
