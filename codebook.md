@@ -13,7 +13,7 @@ These signals were used to estimate variables of the feature vector for each pat
 -----------------------------------------------------------------------------------------------------------------------------
 The same scheme described above has been preserved.
 
-In addition, the set of variables that were estimated from these signals are the mean (mean) and standard deviation (std). The actual values are averages grouped by activity and subject. The first two variables are described below, since they are added variables and not mentioned in above.
+In addition, the set of variables that were estimated from these signals are the mean (mean) and standard deviation (std). The actual values are averages grouped by activity and subject. The first two variables are described below, since they are added variables and not mentioned above.
 
 
 ### Variable Names
