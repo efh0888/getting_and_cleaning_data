@@ -10,12 +10,10 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions."
 
-The same scheme has been
+-----------------------------------------------------------------------------------------------------------------------------
+The same scheme described above has been preserved.
 
-The set of variables that were estimated from these signals are: 
-
-mean: Mean value
-std: Standard deviation
+In addition, the set of variables that were estimated from these signals are the mean (mean) and standard deviation (std). The first two variables are described below, since they are added variables and not mentioned in above.
 
 
 ##Variable Names
